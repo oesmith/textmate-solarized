@@ -320,7 +320,12 @@
 			<key>scope</key>
 			<string>invalid</string>
 			<key>settings</key>
-			<dict/>
+			<dict>
+				<key>background</key>
+				<string>#dc322f</string>
+				<key>foreground</key>
+				<string>#fdf6e3</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
